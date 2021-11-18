@@ -17,7 +17,7 @@ def calculate_point(number):
 
 array = []
 
-Xpoints = numpy.array([0.0, 36.0, 48.0, 54.0, 57.0])
+Xpoints = numpy.array([0.0, 1.0, 2.0, 4.0, 40.0])
 Ypoints = Xpoints * linear_factor
 
 print(Ypoints)
